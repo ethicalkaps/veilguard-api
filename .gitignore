@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 *.so
+*.pyc
+*.pyo
+*.pyd
 .Python
 build/
 develop-eggs/
@@ -45,6 +48,9 @@ Thumbs.db
 *.log
 *.tmp
 temp/
+
+#FastAPI
+.pytest_cache/
 
 jailbreak-examples.txt
 learning-notes.txt
