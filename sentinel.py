@@ -13,7 +13,7 @@ def detect_jailbreak(user_input):
     # List of dangerous patterns
     danger_patterns = [
         "ignore previous instructions",
-        "disregard all rules",
+        "ignore all rules",
         "you are now dan",
         "pretend you are not an ai",
         "forget your training",
