@@ -99,5 +99,4 @@ if __name__ == "__main__":
     
     print("\n" + "=" * 60)
     print("VeilGuard AI - Keyword detection complete")
-    print("Next: veilguard_ml.py for semantic detection")
     print("=" * 60)
